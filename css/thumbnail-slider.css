@@ -1,0 +1,21 @@
+		 ul#myGallery {
+            margin:0 auto;
+            padding:0;
+            list-style:none;
+            width:100%;
+            max-width:600px;
+            font-size:0;
+            cursor:pointer;
+        }
+        ul#myGallery li {
+            margin:0;
+            padding:4px;
+            float:left;
+            width:33%;
+            box-sizing:border-box;
+        }
+        ul#myGallery img {
+            width:100%;
+        }
+
+       
